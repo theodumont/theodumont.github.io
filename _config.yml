@@ -1,0 +1,32 @@
+# Site
+title             : Théo Dumont
+email             : theo[dot]dumont[at]mines-paristech.fr
+description       : >- # this means to ignore newlines until "baseurl:"
+  Welcome to my (modest) personal website!
+baseurl           : "" # the subpath of your site, e.g. /blog
+repository        : "theodumont/theodumont.github.io"
+url               : "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username  :
+github_username   : theodumont
+linkedin_username : theo-dumont
+email             : theo[dot]dumont[at]mines-paristech.fr
+
+# Posts
+future    : false
+
+# For feed
+name      : "Théo Dumont"
+avatar    : "https://avatars3.githubusercontent.com/u/59149044?s=460"
+bio       : "MSc student @MINES ParisTech (PSL University)"
+location  : "France"
+employer  : MINES ParisTech
+github    : "theodumont"
+instagram :
+lastfm    :
+linkedin  : "theo-dumont"
+twitter   :
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
