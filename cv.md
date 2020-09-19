@@ -19,7 +19,7 @@ title: Curriculum Vitae
 
 &nbsp;
 **2019**
-:   **Research Engineer Intern @[Mathematical Morphology Research Center](http://www.cmm.mines-paristech.fr/) (MINES ParisTech).**
+:   **Research Engineer Intern @[Center for Mathematical Morphology](http://www.cmm.mines-paristech.fr/?l=en_US) (MINES ParisTech).**
 :   _Under the supervision of Bruno Figliuzzi._
 :   _Topic:_ Image Segmentation by Superpixels.
 :   _Link:_ [GitHub](https://github.com/theodumont/superpixels-segmentation)
