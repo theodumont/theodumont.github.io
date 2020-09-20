@@ -19,6 +19,28 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    {%- if page.keywords -%}
+    <p>
+      {% assign max = page.keywords.size | minus:1 %}
+      <b>Keywords: </b>
+      {%- for id in (0..max) -%}
+        {{ page.keywords[id] }}
+        {%- if id != max -%}
+          ,&nbsp;
+        {%- endif -%}
+      {%- endfor -%}
+    </p>
+    {%- endif -%}
+
+    {%- if page.repository -%}
+    <p>
+      <b>Repository: </b>
+      <a href="{{ page.repository }}">{{ page.repository }}</a>
+    </p>
+    {%- endif -%}
+
+    <h3>TL;DR</h3>
+
     {{ content }}
   </div>
 

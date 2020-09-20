@@ -12,7 +12,9 @@ linkedin_username : theo-dumont
 email             : theo[dot]dumont[at]mines-paristech.fr
 
 # Posts
-future    : false
+future            : false
+show_excerpts     : true
+excerpt_separator : "<!-- readmore -->"
 
 # For feed
 name      : "Théo Dumont"
