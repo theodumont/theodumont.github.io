@@ -2,6 +2,7 @@
 title             : Théo Dumont
 email             : theo[dot]dumont[at]mines-paristech.fr
 description       : >- # this means to ignore newlines until "baseurl:"
+  Théo Dumont - Mines ParisTech MSc student - personal website
 baseurl           : "" # the subpath of your site, e.g. /blog
 repository        : "theodumont/theodumont.github.io"
 url               : "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -29,8 +30,10 @@ twitter   :
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # markdown
 markdown: kramdown
 kramdown:
     auto_ids: true
+
