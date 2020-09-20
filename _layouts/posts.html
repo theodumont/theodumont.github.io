@@ -37,7 +37,7 @@ layout: default
         {%- endif -%}
 
         {%- if site.show_excerpts -%}
-          {{ post.excerpt | remove: '<p>' | remove: '</p>'}}
+          {{ post.excerpt | remove: '<strong>' | remove: '</strong>'}}
         {%- endif -%}
       </li>
       {%- endfor -%}
