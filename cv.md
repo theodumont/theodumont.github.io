@@ -6,7 +6,7 @@ title: Curriculum Vitae
 ## Professional experience
 
 **2020**
-:   **Deep Learning Research Intern @[InterDigitalInc](https://www.interdigital.com/).**
+:   **Deep Learning Research Intern @[InterDigital, Inc.](https://www.interdigital.com/).**
 :   _Under the supervision of Claire-Hélène Demarty and Frédéric Lefebvre._
 :   _Topic:_ Temporal segmentation of facial features for high-end visual effects.
 
