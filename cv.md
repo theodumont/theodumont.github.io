@@ -13,7 +13,7 @@ title: Curriculum Vitae
 &nbsp;
 **2020**
 :   **Computer Vision Research Intern @[CENTURI](https://centuri-livingsystems.org/) (INMED, [Cossart Lab](http://www.inmed.fr/en/developpement-des-microcircuits-gabaergiques-corticaux-en)).**
-:   _Under the supervision of Julien Denis and Michel Picardo._
+:   _Under the supervision of Rosa Cossart and Julien Denis._
 :   _Topic:_ Deep Learning for neuronal coactivity detection in mice hippocampus.
 :   _Link:_ [GitLab](https://gitlab.com/cossartlab/pyamnesia)
 

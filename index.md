@@ -11,5 +11,7 @@ I am a Masters student in Paris, passionate about **image and video processing**
 
 &nbsp;
 
+**Currently:**
+
 - Deep Learning Research Intern @[InterDigital, Inc.](https://www.interdigital.com/)
 - Master of Engineering @[MINES ParisTech](https://www.minesparis.psl.eu/) ([PSL Research University](https://www.psl.eu/))
