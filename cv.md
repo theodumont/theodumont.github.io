@@ -5,6 +5,12 @@ title: Curriculum Vitae
 
 ## Professional experience
 
+**2021**
+:   **Deep Learning Research Intern @[MIT CSAIL](https://www.interdigital.com/), [Computational Perception & Cognition](http://olivalab.mit.edu/) Research group.**
+:   _Under the supervision of [Camilo Fosco](https://cfosco.github.io/) and [Aude Oliva](http://olivalab.mit.edu/audeoliva.html)._
+:   _Topic:_ Deep learning for memorability.
+
+&nbsp;
 **2020**
 :   **Deep Learning Research Intern @[InterDigital, Inc.](https://www.interdigital.com/).**
 :   _Under the supervision of Claire-Hélène Demarty and Frédéric Lefebvre._
