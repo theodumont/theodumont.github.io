@@ -21,14 +21,14 @@ title: Curriculum Vitae
 :   **Computer Vision Research Intern @[CENTURI](https://centuri-livingsystems.org/) (INMED, [Cossart Lab](http://www.inmed.fr/en/developpement-des-microcircuits-gabaergiques-corticaux-en)).**
 :   _Under the supervision of Rosa Cossart and Julien Denis._
 :   _Topic:_ Deep Learning for neuronal coactivity detection in mice hippocampus.
-:   _Link:_ [preprint](https://www.biorxiv.org/content/10.1101/2021.06.08.447542v1.full.pdf), [code](https://gitlab.com/cossartlab/pyamnesia)
+:   _Links:_ [preprint](https://www.biorxiv.org/content/10.1101/2021.06.08.447542v1.full.pdf), [code](https://gitlab.com/cossartlab/pyamnesia)
 
 &nbsp;
 **2019**
 :   **Research Engineer Intern @[Center for Mathematical Morphology](http://www.cmm.mines-paristech.fr/?l=en_US) (MINES ParisTech).**
 :   _Under the supervision of [Bruno Figliuzzi](http://www.cmm.mines-paristech.fr/~figliuzzi/accueil.html)._
 :   _Topic:_ Image Segmentation by Superpixels.
-:   _Link:_ [report](https://github.com/theodumont/superpixels-segmentation/blob/master/report/main.pdf), [code](https://github.com/theodumont/superpixels-segmentation)
+:   _Links:_ [report](https://github.com/theodumont/superpixels-segmentation/blob/master/report/main.pdf), [code](https://github.com/theodumont/superpixels-segmentation)
 
 
 ## Education
