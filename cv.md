@@ -6,7 +6,7 @@ title: Curriculum Vitae
 ## Professional experience
 
 **2021**
-:   **Deep Learning Research Intern @[MIT CSAIL](https://www.interdigital.com/), [Computational Perception & Cognition](http://olivalab.mit.edu/) Research group.**
+:   **Deep Learning Research Intern @[Tekal.ai](https://www.tekal.ai/), working with [MIT CSAIL](https://www.interdigital.com/)**, [Computational Perception & Cognition](http://olivalab.mit.edu/) Research group.
 :   _Under the supervision of [Camilo Fosco](https://cfosco.github.io/)._
 :   _Topic:_ Deep learning for memorability.
 
@@ -21,14 +21,14 @@ title: Curriculum Vitae
 :   **Computer Vision Research Intern @[CENTURI](https://centuri-livingsystems.org/) (INMED, [Cossart Lab](http://www.inmed.fr/en/developpement-des-microcircuits-gabaergiques-corticaux-en)).**
 :   _Under the supervision of Rosa Cossart and Julien Denis._
 :   _Topic:_ Deep Learning for neuronal coactivity detection in mice hippocampus.
-:   _Link:_ [GitLab](https://gitlab.com/cossartlab/pyamnesia)
+:   _Link:_ [preprint](https://www.biorxiv.org/content/10.1101/2021.06.08.447542v1.full.pdf), [code](https://gitlab.com/cossartlab/pyamnesia)
 
 &nbsp;
 **2019**
 :   **Research Engineer Intern @[Center for Mathematical Morphology](http://www.cmm.mines-paristech.fr/?l=en_US) (MINES ParisTech).**
 :   _Under the supervision of [Bruno Figliuzzi](http://www.cmm.mines-paristech.fr/~figliuzzi/accueil.html)._
 :   _Topic:_ Image Segmentation by Superpixels.
-:   _Link:_ [GitHub](https://github.com/theodumont/superpixels-segmentation)
+:   _Link:_ [report](https://github.com/theodumont/superpixels-segmentation/blob/master/report/main.pdf), [code](https://github.com/theodumont/superpixels-segmentation)
 
 
 ## Education
