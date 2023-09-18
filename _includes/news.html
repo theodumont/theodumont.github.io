@@ -11,14 +11,18 @@
               {% endif %}
               {% for item in news limit: news_limit %}
                 <tr>
-                  <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
-                  <td>
-                    {% if item.inline -%}
-                      {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-                    {%- else -%}
-                      <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-                    {%- endif %}
-                  </td>
+                    {% if item.day %}
+                    <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+                    {% else %}
+                    <th scope="row">{{ item.date | date: "%b, %Y" }}</th>
+                    {% endif %}
+                    <td>
+                        {% if item.inline -%}
+                        {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                        {%- else -%}
+                        <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                        {%- endif %}
+                    </td>
                 </tr>
               {%- endfor %}
               </table>
