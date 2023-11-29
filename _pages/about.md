@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a PhD student in optimal transport at the [LIGM](https://siteigm.univ-mlv.fr/) (Université Gustave Eiffel) under the supervision of [François-Xavier Vialard]({http://angkor.univ-mlv.fr/~vialard/}), [Théo Lacombe]({https://tlacombe.github.io/}) and [Virginie Ehrlacher]({https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/}).
-Just before that, I was a research intern in infinite-dimensional Riemannian geometry at [NTU Singapore](https://www.ntu.edu.sg/spms) with [Philipp Harms](http://www.philippharms.com/) and then at [Chalmers University](https://www.chalmers.se/en/) with [Klas Modin](https://klasmodin.github.io/).
+Just before that, I worked with [Philipp Harms](http://www.philippharms.com/) ([NTU Singapore](https://www.ntu.edu.sg/spms)) and [Klas Modin](https://klasmodin.github.io/) ([Chalmers University](https://www.chalmers.se/en/)) on some topics related to the  infinite-dimensional geometry of optimal transport.
 <!-- I recently completed a dual-degree MSc at [Mines Paris - PSL](https://www.minesparis.psl.eu/) and [ENS Paris-Saclay (MVA)](https://www.master-mva.com/). -->
 
-My interests span the theory of optimal transport, Riemannian geometry and machine learning, and I am passionate about the interplay between those fields. I am currently working on geometry of several OT-related problems, such as the Gromov--Wasserstein problem, and on the geometry of neural networks. I am always happy to discuss, so feel free to contact me!
+My interests span the theory of optimal transport (OT), infinite-dimensional Riemannian geometry and machine learning, and I am passionate about the interplay between those fields. I am currently working on the geometry of several OT-related problems, such as Gromov--Wasserstein, and on the geometry of neural networks. I am always happy to discuss, so feel free to contact me!
