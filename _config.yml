@@ -219,7 +219,7 @@ plugins:
   - jekyll-archives
   - jekyll-diagrams
   - jekyll-email-protect
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
