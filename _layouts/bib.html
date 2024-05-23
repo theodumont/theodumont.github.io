@@ -173,6 +173,9 @@
         {%- if entry.slides %}
         <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-regular fa-file-image"></i>&nbsp; Slides</a>
         {%- endif %}
+        {%- if entry.poster %}
+        <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-regular fa-file-image"></i>&nbsp; Poster</a>
+        {%- endif %}
         {%- if entry.blog %}
         <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
         {%- endif %}
