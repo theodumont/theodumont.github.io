@@ -21,10 +21,18 @@ strong {
 
 // custom
 .periodical>* {
-    color: var(--global-theme-color-em) !important;
+  color: var(--global-theme-color) !important;
 }
 
 .periodical {
+  color: var(--global-theme-color) !important;
+}
+
+.award>* {
+    color: var(--global-theme-color-em) !important;
+}
+
+.award {
     color: var(--global-theme-color-em) !important;
 }
 
@@ -633,7 +641,7 @@ footer.sticky-bottom {
       }
 
       .abbr {
-        height: 2rem;
+        // height: 2rem;
         margin-bottom: 0.5rem;
 
         abbr {
