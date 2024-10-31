@@ -11,9 +11,10 @@ nav_order: 6
 
 ### :triangular_ruler: &nbsp;Maths
 - [Oh, you're a mathematician?](https://putitallonred.com/2014/08/11/if-i-reacted-to-other-peoples-careers-the-way-they-react-to-me-becoming-a-mathematician/)
-- watch great animations ([3blue1brown](https://www.3blue1brown.com/)) and build some ([Manim](https://github.com/3b1b/manim), [Spline](https://app.spline.design/))
-- mathematical writing: [How to write mathematics (P. Halmos)](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf), [How to write a paper (O. Goldreich)](https://www.wisdom.weizmann.ac.il/~oded/R2/re-writing.pdf), [How to write a clear math paper: some 21st century tips (I. Pak)](https://www.math.ucla.edu/~pak/papers/how-to-write1.pdf), and more on [Terrence Tao's blog](https://terrytao.wordpress.com/advice-on-writing-papers/)
-- mathematical typing: [Notes on mathematical typing (Cowling)](https://web.maths.unsw.edu.au/~michaelc/mc_writing.pdf), [LaTeX taboos](https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/info/l2tabu/english/l2tabuen.pdf)
+- math writing: [How to write mathematics (P. Halmos)](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf), [How to write a paper (O. Goldreich)](https://www.wisdom.weizmann.ac.il/~oded/R2/re-writing.pdf), [How to write a clear math paper: some 21st century tips (I. Pak)](https://www.math.ucla.edu/~pak/papers/how-to-write1.pdf), and more on [Terrence Tao's blog](https://terrytao.wordpress.com/advice-on-writing-papers/)
+- math typing: [Notes on mathematical typing (Cowling)](https://web.maths.unsw.edu.au/~michaelc/mc_writing.pdf), [LaTeX taboos](https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/info/l2tabu/english/l2tabuen.pdf)
+- math drawing: I use a combination of [slides.com](slides.com) and [tikz](https://tikz.dev/). See also [inkscape](https://inkscape.fr/). 
+- math animations: watch great ones ([3blue1brown](https://www.3blue1brown.com/)) and build some ([Manim](https://github.com/3b1b/manim), [Spline](https://app.spline.design/))
 
 
 ### :seedling: &nbsp;Climate
