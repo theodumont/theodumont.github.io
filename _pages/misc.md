@@ -11,7 +11,7 @@ nav_order: 6
 
 ### :triangular_ruler: &nbsp;Maths
 - [Oh, you're a mathematician?](https://putitallonred.com/2014/08/11/if-i-reacted-to-other-peoples-careers-the-way-they-react-to-me-becoming-a-mathematician/)
-- math writing: [How to write mathematics (P. Halmos)](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf), [How to write a paper (O. Goldreich)](https://www.wisdom.weizmann.ac.il/~oded/R2/re-writing.pdf), [How to write a clear math paper: some 21st century tips (I. Pak)](https://www.math.ucla.edu/~pak/papers/how-to-write1.pdf), and more on [Terrence Tao's blog](https://terrytao.wordpress.com/advice-on-writing-papers/)
+- math writing: [How to write mathematics (P. Halmos)](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf), [How to write a paper (O. Goldreich)](https://www.wisdom.weizmann.ac.il/~oded/R2/re-writing.pdf), [How to write a clear math paper: some 21st century tips (I. Pak)](https://www.math.ucla.edu/~pak/papers/how-to-write1.pdf), [Conseils aux auteurs de textes mathématiques (M. Aubin)](https://math.umd.edu/~kmelnick/docs/writing13/audin.pdf), and more on [Terrence Tao's blog](https://terrytao.wordpress.com/advice-on-writing-papers/)
 - math typing: [Notes on mathematical typing (Cowling)](https://web.maths.unsw.edu.au/~michaelc/mc_writing.pdf), [LaTeX taboos](https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/info/l2tabu/english/l2tabuen.pdf)
 - math drawing: I use a combination of [slides.com](slides.com) and [tikz](https://tikz.dev/). See also [inkscape](https://inkscape.fr/). 
 - math animations: watch great ones ([3blue1brown](https://www.3blue1brown.com/)) and build some ([Manim](https://github.com/3b1b/manim), [Spline](https://app.spline.design/))
@@ -31,3 +31,4 @@ nav_order: 6
 
 ### :computer: &nbsp;Science and industrial society
 - [Démanteler le numérique et mettre fin à la guerre généralisée au vivant (R. Couillet)](https://polaris.imag.fr/romain.couillet/docs/book/demanteler_le_numerique.pdf)
+- [Antidote au culte de la performance. La robustesse du vivant (O. Hamant)](https://tracts.gallimard.fr/products/tracts-n-50-antidote-au-culte-de-la-performance-la-robustesse-du-vivant) (+ [entretien](https://www.youtube.com/live/JPW_m8JBl2Q?si=8NJBsw26mmjZNEkw))
