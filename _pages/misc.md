@@ -29,6 +29,6 @@ nav_order: 6
 - En recherche académique
   - trajets en avion en recherche académique en France: [Concerned yet polluting (Blanchard et. al)](https://hal.science/hal-03779688v1/file/journal.pclm.0000070.pdf), distance voyagée en avion par domaine de recherche (Fig. 3), par statut académique (Fig. 4).
 
-### :computer: &nbsp;Science and industrial society
+<!-- ### :computer: &nbsp;Science and industrial society
 - [Démanteler le numérique et mettre fin à la guerre généralisée au vivant (R. Couillet)](https://polaris.imag.fr/romain.couillet/docs/book/demanteler_le_numerique.pdf)
-- [Antidote au culte de la performance. La robustesse du vivant (O. Hamant)](https://tracts.gallimard.fr/products/tracts-n-50-antidote-au-culte-de-la-performance-la-robustesse-du-vivant) (+ [entretien](https://www.youtube.com/live/JPW_m8JBl2Q?si=8NJBsw26mmjZNEkw))
+- [Antidote au culte de la performance. La robustesse du vivant (O. Hamant)](https://tracts.gallimard.fr/products/tracts-n-50-antidote-au-culte-de-la-performance-la-robustesse-du-vivant) (+ [entretien](https://www.youtube.com/live/JPW_m8JBl2Q?si=8NJBsw26mmjZNEkw)) -->
