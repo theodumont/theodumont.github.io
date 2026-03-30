@@ -17,7 +17,7 @@
   abstract={We study the estimation of optimal transport (OT) maps between an arbitrary source probability measure and a log-concave target probability measure. Our contributions are twofold. First, we propose a new evolution equation in the set of transport maps. It can be seen as the gradient flow of a lift of some user-chosen divergence (e.g., the KL divergence, or relative entropy) to the space of transport maps, constrained to the convex set of optimal transport maps. We prove the existence of long-time solutions to this flow as well as its convergence toward the OT map as time goes to infinity, under standard convexity conditions on the divergence. Second, we study the practical implementation of this constrained gradient flow. We propose two time-discrete computational schemes-one explicit, one implicit-, and we prove the convergence of the latter to the OT map as time goes to infinity. We then parameterize the OT maps with convexity-constrained neural networks and train them with these discretizations of the constrained gradient flow. We show that this is equivalent to performing a natural gradient descent of the lift of the chosen divergence in the neural networks' parameter space. Empirically, our scheme outperforms the standard Euclidean gradient descent methods used to train convexity-constrained neural networks in terms of approximation results for the OT map and convergence stability, and it still yields better results than the same approach combined with the widely used adam optimizer.},
   journal={preprint},
   code={https://github.com/theodumont/monge-constrained-flow},
-  preview={illus-monge-constrained.jpg},
+  preview={illus-monge-constrained.png},
   abbr={preprint},
 }
 
