@@ -10,7 +10,7 @@ nav_order: 5
 ## 2025--2026
 - :triangular_ruler:&nbsp; @ Univ. Gustave Eiffel: **Labo Math-Info** *(Computer science for mathematics)* -- Year 2, teaching assistant
 - :bar_chart:&nbsp; @ Univ. Gustave Eiffel: **Machine learning** *(Machine learning)* -- Year 4, teaching assistant
-- :bar_chart:&nbsp; @ Mines Paris: **Sciences des données** *(Data science)* -- Year 3, teaching assistant [[course website](https://git.sophia.minesparis.psl.eu/chloe-agathe.azencott/sdd_2026), [my notes](https://theodumont.github.io/assets/teaching/sdd.pdf) *(pwd: sdd)*]
+- :bar_chart:&nbsp; @ Mines Paris: **Sciences des données** *(Data science)* -- Year 3, teaching assistant [[course website](https://git.sophia.minesparis.psl.eu/chloe-agathe.azencott/sdd_2026), [my notes](https://theodumont.github.io/assets/teaching/sdd.pdf)]
 
 
 ## 2024--2025
